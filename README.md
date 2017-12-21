@@ -67,10 +67,13 @@ PlantUMLのコンテンツ
 すると、
 
 __GitLab__
+<br>
+
 <img src="https://qiita-image-store.s3.amazonaws.com/0/35954/f8fe2c59-a9bf-4ac8-a2b9-357767b3d83b.png" width=640>
 
 
 __GitHub__
+<br>
 
 <img src="https://qiita-image-store.s3.amazonaws.com/0/35954/bbe95c74-c5c4-2113-fc18-98c97d5c625f.png" width=640>
 

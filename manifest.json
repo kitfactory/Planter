@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Planter",
 	"version": "1.0",
-	"description": "GitHub/GitLab/GitBucketにおいてPlantUML記法で描画されたUML図を描画します。",
+	"description": "GitHub/GitLabにおいてPlantUML記法で描画されたUML図を描画します。",
 	"content_scripts": [
 		{
 			"js": [
