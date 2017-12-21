@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+	"name": "Planter",
+	"version": "1.0",
+	"description": "GitHub/GitLab/GitBucketにおいてPlantUML記法で描画されたUML図を描画します。",
+	"content_scripts": [
+		{
+			"js": [
+				"rawdeflate.js",
+				"pegmatite.js",
+				"common.js",
+				"content-script.js"
+			],
+			"matches": [
+				"<all_urls>"
+			]
+		}
+	],
+	"options_page":"option.html",
+	"permissions":[
+		"storage"
+	],
+	"icons": {
+		"16": "planter16.png",
+		"48": "planter48.png",
+		"128": "planter128.png"
+	}
+}

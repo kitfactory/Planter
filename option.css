@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+    background-image: url("planter.png");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
