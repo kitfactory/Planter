@@ -147,7 +147,7 @@ function observeHTMLGitLab(){
 		let keyElems = findKeyElements();
 		renderHTML( keyElems );
 	});
-	list = document.querySelectorAll( "div.blob-viewer[data-type='rich']");
+	list = document.querySelectorAll( "div.issue-details");
 	list.forEach( function(node){
 		observer.observe(node, {
 			childList: true,
