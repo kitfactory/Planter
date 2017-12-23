@@ -29,9 +29,9 @@ GitLab/GitHub上でUML図を使った議論を可能にするChrome拡張、Plan
 
 こちらのwarファイルをtomcatを解凍したwebappsの中にwarファイルをコピーします。
 
-$ apache-tomcat
-├── bin
-├── webapps (ここにwarファイルをコピー)
+$ apache-tomcat<br>
+├── bin<br>
+├── webapps (ここにwarファイルをコピー)<br>
 ....
 
 その後、tomcatを解凍したbinフォルダの中のstartupで起動します。
